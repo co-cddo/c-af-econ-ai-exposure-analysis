@@ -41,8 +41,7 @@ Each of the two sections of analysis requires different input data to complete:
 
 | **Role**                | **Task**                                                                                   | **Grade** |
 |-------------------------|--------------------------------------------------------------------------------------------|-----------|
-| Executive Assistant      | Support the Senior Leadership Team to ensure their diary runs smoothly and their email     | EO        |
-|                         | inbox is in order so they use their time most effectively and with maximum impact           |           |
+| Executive Assistant      | Support the Senior Leadership Team to ensure their diary runs smoothly and their email inbox is in order so they use their time most effectively and with maximum impact     | EO        |
 | Executive Assistant      | Arrange meetings, phone calls, and events with internal and external stakeholders          | EO        |
 | Executive Assistant      | Manage core office functions and processes including the coordination of a daily           | EO        |
 |                         | information pack and weekly forward look note                                               |           |
