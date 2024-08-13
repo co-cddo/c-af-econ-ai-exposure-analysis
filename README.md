@@ -43,8 +43,7 @@ Each of the two sections of analysis requires different input data to complete:
 |-------------------------|--------------------------------------------------------------------------------------------|-----------|
 | Executive Assistant      | Support the Senior Leadership Team to ensure their diary runs smoothly and their email inbox is in order so they use their time most effectively and with maximum impact     | EO        |
 | Executive Assistant      | Arrange meetings, phone calls, and events with internal and external stakeholders          | EO        |
-| Executive Assistant      | Manage core office functions and processes including the coordination of a daily           | EO        |
-|                         | information pack and weekly forward look note                                               |           |
+| Executive Assistant      | Manage core office functions and processes including the coordination of a daily information pack and weekly forward look note            | EO        |
 | Customer Service Advisor | Speaking to customers on the phone, helping them with their questions or issues.           | EO        |
 | Customer Service Advisor | Helping customers to pay the correct amount of tax at the right time.                      | EO        |
 | Customer Service Advisor | Taking payments by phone and via our online services.                                      | EO        |
@@ -57,14 +56,8 @@ Each of the two sections of analysis requires different input data to complete:
 
 | **Role**                | **Skills**                                                                                                                                                                              |
 |-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Executive Assistant      | Proactive people with strong interpersonal skills who enjoy working in a delivery focused agile environment; People with a strong attention to detail; Excellent written and verbal       |
-|                         | communication with the ability to communicate concisely and coherently to a wide variety of audiences; Experience of working with a wide range of stakeholders in a challenging and      |
-|                         | fast-paced environment; Demonstrable experience ability to deliver across multiple priorities at pace; Demonstrable experience of handling sensitive information displaying tact and       |
-|                         | diplomacy and maintaining confidentiality; Ability to use Google’s G Suite office apps and an Apple MacBook is desirable                                                                 |
-| Customer Service Advisor | High standard of literacy and effective written communication skills; Effective verbal communication skills in particular the ability to provide clear advice over the telephone; Ability |
-|                         | to deal with a demanding workload and prioritise accordingly; Ability to work on own initiative and as a member of a team; Effective negotiation skills; Ability to ensure that the       |
-|                         | highest standards of quality and customer care are achieved; Excellent interpersonal skills with people at all levels; Ability to use standard office IT packages; Ability to make        |
-|                         | presentations                                                                                                                                                                          |
+| Executive Assistant      | Proactive people with strong interpersonal skills who enjoy working in a delivery focused agile environment; People with a strong attention to detail; Excellent written and verbal communication with the ability to communicate concisely and coherently to a wide variety of audiences; Experience of working with a wide range of stakeholders in a challenging and fast-paced environment; Demonstrable experience ability to deliver diplomacy and maintaining confidentiality; Ability to use Google’s G Suite office apps and an Apple MacBook is desirableacross multiple priorities at pace; Demonstrable experience of handling sensitive information displaying tact and       |                                                           |
+| Customer Service Advisor | High standard of literacy and effective written communication skills; Effective verbal communication skills in particular the ability to provide clear advice over the telephone; Ability to deal with a demanding workload and prioritise accordingly; Ability to work on own initiative and as a member of a team; Effective negotiation skills; Ability to ensure that the highest standards of quality and customer care are achieved; Excellent interpersonal skills with people at all levels; Ability to use standard office IT packages; Ability to make presentations|
 
 **Data Analysis**
 The key analytical outputs produced by the code for each section include:
