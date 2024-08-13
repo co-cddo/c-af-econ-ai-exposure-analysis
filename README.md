@@ -1,6 +1,4 @@
-# c-af-econ-ai-exposure-analysis
-Analysis of the extent to which different roles are exposed to AI, and how this relates to the skills required
-
+# CDDO AI Exposure and Skills Importance Analysis
 # **Introduction**
 This analysis conducted by the Central Digital and Data Office uses a Large Language Model (LLM) to assess job descriptions. It evaluates the extent of AI exposure across different job roles and analyses the relationship between AI exposure and the required skill types. 
 
@@ -24,7 +22,7 @@ This analysis uses GPT Open API to analyse the content of job descriptions. To p
 
 - **Set API Key:** Insert your API key into the script where indicated in the section titled "Set API Key".
 
-- **Check Account Balance:** Make sure that your OpenAI account has sufficient funds to cover the API usage costs. You can do this from the Billing page: https://platform.openai.com/account/billing in your OpenAI account.
+- **Check Account Balance:** Make sure that your OpenAI account has sufficient funds to cover the API usage costs. You can do this from the Billing page: https://platform.openai.com/account/billing in your OpenAI account. The total cost will depend on the length of task and skill information and total number job roles. As a guidline, the analysis would typically cost less than £10 for a sample of 150-200 roles, depending on input data length.
 
 # **Data Required**
 Each of the two sections of analysis requires different input data to complete:
