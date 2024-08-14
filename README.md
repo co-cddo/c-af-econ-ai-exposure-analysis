@@ -11,6 +11,16 @@ The analysis is divided into two main sections:
 - **Skills Analysis:** The O*NET database lists a total of 35 key skills that are used across different occupations. This analysis uses an LLM to assess both the full list of tasks and skills outlined in a job description and assign a score between 0 and 1 to each skill depending on its level of importance.
 
 # **Prerequisites and Setup**
+
+Clone this repo using the link. 
+
+## Recreate the environment
+
+It is recommended to create a new virtual environment with your preferred tool. The dependencies can then be installed with:
+```sh
+pip install -r requirements.txt
+```
+
 This analysis uses GPT Open API to analyse the content of job descriptions. To perform this analysis, users must have an OpenAI API Account ensuring that the account has sufficient credit to conduct the analysis. 
 
 - **Create Account:** Create an account with OpenAI if you don't already have one. Sign up at OpenAI's website: https://platform.openai.com/signup
@@ -20,7 +30,10 @@ This analysis uses GPT Open API to analyse the content of job descriptions. To p
   - Navigate to the API Keys section: https://platform.openai.com/account/api-keys
   - Click on "Create new secret key" and save it securely. This key is necessary for the script to function.
 
-- **Set API Key:** Insert your API key into the script where indicated in the section titled "Set API Key".
+- **Set API Key:** 
+  - create a dot env file names `.env` in the project directory. 
+  - add a line `OPENAI_API_KEY=YOU_API_KEY_FROM_ABOVE` and save.
+  - this will keep you key secure and out of the code base. 
 
 - **Check Account Balance:** Make sure that your OpenAI account has sufficient funds to cover the API usage costs. You can do this from the Billing page: https://platform.openai.com/account/billing in your OpenAI account. The total cost will depend on the length of task and skill information and total number job roles. As a guidline, the analysis would typically cost less than £10 for a sample of 150-200 roles, depending on input data length.
 

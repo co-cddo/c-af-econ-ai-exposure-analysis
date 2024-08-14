@@ -1,0 +1,8 @@
+ipykernel
+openai
+pandas
+matplotlib
+seaborn
+numpy
+statsmodels
+python-dotenv
