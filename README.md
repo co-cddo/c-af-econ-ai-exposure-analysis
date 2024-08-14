@@ -11,6 +11,14 @@ The analysis is divided into two main sections:
 - **Skills Analysis:** The O*NET database lists a total of 35 key skills that are used across different occupations. This analysis uses an LLM to assess both the full list of tasks and skills outlined in a job description and assign a score between 0 and 1 to each skill depending on its level of importance.
 
 # **Prerequisites and Setup**
+
+## Recreate the environment
+
+It is recommended to create a new virtual environment with your preferred tool. The dependencies can then be installed with:
+```sh
+pip install -r requirements.txt
+```
+
 This analysis uses GPT Open API to analyse the content of job descriptions. To perform this analysis, users must have an OpenAI API Account ensuring that the account has sufficient credit to conduct the analysis. 
 
 - **Create Account:** Create an account with OpenAI if you don't already have one. Sign up at OpenAI's website: https://platform.openai.com/signup
