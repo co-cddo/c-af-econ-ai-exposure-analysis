@@ -1,0 +1,99 @@
+role,task,grade
+Executive Assistant,Support the Senior Leadership Team to ensure their diary runs smoothly and their email inbox is in order so they use their time most effectively and with maximum impact,EO
+Executive Assistant,"Arrange meetings, phone calls, and events with internal and external stakeholders",EO
+Executive Assistant,Manage core office functions and processes including the coordination of a daily information pack and weekly forward look note,EO
+Customer Service Advisor,"Speaking to customers on the phone, helping them with their questions or issues.",EO
+Customer Service Advisor,Helping customers to pay the correct amount of tax at the right time.,EO
+Customer Service Advisor,Taking payments by phone and via our online services.,EO
+Project Manager,"Create and lead the project to deliver the agreed outcomes within time, cost and quality constraints.",G7
+Project Manager,"Day-to-day leadership of the project, and any associated project team.",G7
+Project Manager,"Draw upon appropriate waterfall and agile project delivery methodologies to work within the hybrid Directorate governance and delivery arrangements, and manage effective transition between project phases.",G7
+Project Manager,"Identify, in consultation, resources needed to deliver the projects, and deploy and develop resources as appropriate.",G7
+Project Manager,Working with our partners across the Directorate and beyond to ensure projects deliver the benefits identified.,G7
+Project Manager,Identify and manage stakeholder relationships and need for senior level support. Manage internal and external relationships as appropriate.,G7
+Project Manager,Identify and monitor project risks and issues. Develop mitigating actions and escalate as appropriate. Identify and work with related projects to manage interdependencies.,G7
+Project Manager,"Support effective governance and decision-making. Provide reporting, and engage in mechanisms that hold you, as Project Manager, to account for delivery.",G7
+Project Manager,"Engage with assurance reviews and support action on recommendations. Organise assurance processes such as gateway reviews, as needed, and in consultation with the sponsoring body.",G7
+Project Manager,"Ensure effective Change and Configuration Management processes are in place to agree, and document changes to deliverables as agreed with stakeholders.",G7
+Project Manager,"Provide support, guidance and coaching for any direct reports and/or colleagues. Show commitment to personal development. Promote effective individual and team performance.",G7
+Project Manager,Cascade vision and translate into delivery objectives for the team. Develop and maintain the Project Plan. Manage performance and report progress to the sponsors via the governance structure.,G7
+Policy Advisor,"Responsible for high quality, timely, and robust analysis of core issue/s and policy options resulting in evidence based recommendations.",HEO
+Policy Advisor,"Drafting of clear and concise documents, including briefings, policy documents, consultations, impact assessments, guidance and decision letters.",HEO
+Policy Advisor,"Supporting and directing key workstreams and projects, including responsibility for internal and external stakeholder engagement by prioritising, scoping and delivering work",HEO
+Policy Advisor,"Effectively communicating the benefits, challenges and trade-offs of policy proposals to senior colleagues and partners",HEO
+Policy Advisor,"Ensuring delivery by effective collaboration across teams, supporting professions and other sources of evidence and expertise to understand and manage risks and issues",HEO
+Policy Advisor,"Responsible for representing Ofgem externally, building constructive and supportive relationships to ensure challenges and issues are identified and resolved in consumers interests.",HEO
+Policy Advisor,"Policy assessment, such as considering the costs, benefits, risks, and trade-offs of policy proposals, and providing evidence-based policy recommendations. For example, delivering electricity code modification decisions, delivering decisions on Capacity Market rule changes, delivering our decisions on the Capacity Market Tier-2 disputes.",HEO
+Policy Advisor,"A range of quantitative analytical tasks, such as basic data analysis and spreadsheet manipulation. For example, supporting our analysis of wholesale electricity markets to assess liquidity and scrutinise market behaviour.",HEO
+Data Analyst,"Work collaboratively with SFC colleagues to gather evidence, provide guidance, support projects and disseminate management information within and out-with the organisation.",SEO
+Data Analyst,"Monitor, evaluate and report on student numbers for health subjects, including nursing, medicine and paramedics.",SEO
+Data Analyst,"Analysis of Further and Higher Education data to inform policy development across a wide range of areas including access, skills and funding.",SEO
+Data Analyst,"Work collaboratively with SFC colleagues to gather evidence, provide guidance, support projects and disseminate management information within and out-with the organisation.",SEO
+Data Analyst,Attend and contribute to committees and working groups as required with internal and external stakeholders.,SEO
+Data Analyst,Provide analytical support for other internal or external projects as required.,SEO
+Data Analyst,"Draft reports and papers, based on specified project briefs, for senior management to review.",SEO
+Data Analyst,Present analysis and insights to SFC colleagues and external stakeholders.,SEO
+Communications Officer,Coordinate face to face and online events for internal and external stakeholders at all levels.,EO
+Communications Officer,"Provide communication advice and guidance to the various CIW teams, ensuring all their communication activity follows our brand guidelines.",EO
+Communications Officer,Support the development and delivery of detailed communication plans to support business objectives and programmes of work Assist in developing and managing our digital/social media channels.,EO
+Communications Officer,Assist the Digital Communications Manager to create and add content to our external website and internal intranet site.,EO
+Communications Officer,Assist in the development of new digital products.,EO
+Communications Officer,"Design, create and disseminate a range of communication outputs such as flyers, banners and e-newsletters.",EO
+Communications Officer,Assist in the management of the CIW communication mailbox to advise and field enquiries/responses to respective staff and customers.,EO
+Communications Officer,Support the design and publication of range of national and local reports.,EO
+Communications Officer,Keep up to date on emerging digital media trends and the use of Artificial Intelligence (AI).,EO
+Operational Delivery Officer,"Ensuring that the work is processed accurately within the agreed KPI and SLA deadlines, escalating where required.",EO
+Operational Delivery Officer,"Monitoring of the SharePoint site, working as a team to deal with workloads and priorities to maintain agreed service levels.",EO
+Operational Delivery Officer,To provide cover in the absence of other team members ensuring that the work is prioritised in order to maintain a good level of service.,EO
+Operational Delivery Officer,"On an ongoing basis discussing and agreeing with other team members and managers overall operational priorities, issues to be addressed to maintain and/or improve the team and Division’s effectiveness.",EO
+Operational Delivery Officer,The setup and maintenance of corporate data in ACBS to the highest possible level of accuracy within agreed parameters.,EO
+Operational Delivery Officer,To ensure processes and procedures of the work area are adhered to and that guidance is available and efficiently maintained.,EO
+Operational Delivery Officer,This includes identification of potential areas of weakness in systems or concerns with underlying business transactions and how they should be recorded.,EO
+Operational Delivery Officer,"To identify, allocate and process premium receipts in line with branch instructions.",EO
+Operational Delivery Officer,"To manage and maintain control logs, ensuring data is recorded promptly and accurately.",EO
+Operational Delivery Officer,"To provide assistance in maintaining accurate and up to date procedures, also creating procedures for novel cases.",EO
+Operational Delivery Officer,When required to provide advice and guidance on current recording of business transactions to other business areas (e.g. to Business Analysts undertaking development of new products).,EO
+Operational Delivery Officer,"To identify areas of improvement in the efficiency, effectiveness of the work of PDC.",EO
+Legal Adviser,"Provide legal advice to magistrates on law, practice, and procedure.",SEO
+Legal Adviser,Assist with the formulation and drafting of judgments.,SEO
+Legal Adviser,Exercise a range of authorized judicial functions.,SEO
+Legal Adviser,Monitor the SharePoint site and work as a team to manage workloads and priorities.,SEO
+Legal Adviser,"Provide cover in the absence of other team members, ensuring work is prioritized.",SEO
+Legal Adviser,Discuss and agree operational priorities with team members and managers.,SEO
+Legal Adviser,Ensure the setup and maintenance of corporate data in ACBS with the highest accuracy.,SEO
+Legal Adviser,"Identify, allocate, and process premium receipts according to branch instructions.",SEO
+Legal Adviser,"Manage and maintain control logs, ensuring prompt and accurate data recording.",SEO
+Legal Adviser,Provide advice and guidance on the recording of business transactions.,SEO
+Legal Adviser,Identify areas of improvement in efficiency and effectiveness.,SEO
+Legal Adviser,Regularly travel to other locations and work out of hours when required.,SEO
+Legal Adviser,"Act as the professional face of the court, working with integrity and ensuring all attendees are treated with respect.",SEO
+Legal Adviser,"Participate in a 12 to 18 month national induction program to acquire knowledge of law, practice, procedure, and court skills.",SEO
+Legal Adviser,Support the professional development of colleagues and contribute to the training of new legal advisers.,SEO
+Legal Adviser,"Work at pace in a fast-moving, fluid environment to keep the courts running smoothly and efficiently.",SEO
+Procurement Officer,Providing local expertise and support to end-users to undertake a range of procurement tasks (varying in both value and complexity) including sourcing and contracting,HEO
+Procurement Officer,The provision of expert advice on all aspects of regulations and controls and representing UKRI’s risk appetite in procurement decisions,HEO
+Procurement Officer,Keeping local end-users up to date with UKRI procurement policy and best practice in public procurement,HEO
+Procurement Officer,Acting as initial contact and escalation route to the local Procurement Manager or Commercial Business Partner,HEO
+Procurement Officer,Supporting the development of local procurement and contract management skill,HEO
+Economist,"Act as the economic leads for the BOLD programme, and support the MoJ’s Data Improvement Programme where necessary.",G7
+Economist,"Develop and deliver the VfM assessment of BOLD, both at programme-level and demonstrator pilot-level.",G7
+Economist,"Work closely within our cross-disciplinary teams of policy, operational and data science colleagues.",G7
+Economist,"Develop the economic case for the Spending Review, working with strategy colleagues.",G7
+Economist,Build relationships with a range of stakeholders to develop a longer-term economic capability for the data function beyond 2024/25.,G7
+Economist,Work collaboratively across MoJ and other departments to explore new and innovative ways of assessing VfM of data linking programmes/value of linked data.,G7
+Economist,Work flexibly to support the wider analytical team within BOLD: promote and champion BOLD at conferences and stakeholder events.,G7
+Statistician,"Support the delivery of ongoing workstreams in relation to nutrition, food waste, sleep, wastewater monitoring, and illicit drug detection.",SEO
+Statistician,Communicate and influence project stakeholders effectively.,SEO
+Statistician,Deliver conflicting demands at pace.,SEO
+Statistician,Make effective decisions regarding the development of projects.,SEO
+Statistician,Build strong relationships inside and outside of the department.,SEO
+Statistician,"Deliver through collaboration with multiple partners, including senior officials, other Government departments, academia, and industry.",SEO
+Statistician,"Support the Science Delivery Lead and other colleagues in reviewing, critiquing, and developing new project ideas.",SEO
+Statistician,"Scope, pilot, and deliver new technologies and research projects.",SEO
+Research Officer,"Supporting a range of new and emerging research priorities across the team, which improve the use of evidence and evaluation across government.",HEO
+Research Officer,"Overseeing the management of the UK Government’s Evaluation and Trial Advice Panel, which connects project teams in departments to our panel of evaluation experts from industry, academia and government.",HEO
+Research Officer,Leading on monitoring and reporting on our team’s engagement with departments.,HEO
+Research Officer,Prepare monthly updates for Cabinet Office Ministers about the work of the Evaluation Task Force,HEO
+Research Officer,Supporting the team to commission and oversee high-priority evaluations such as for the Evaluation Accelerator Fund and Labour Market Evaluation and Pilots Fund.,HEO
+Research Officer,Developing and publishing resources and materials on our team’s website for cross-government and wider public audiences.,HEO
+Research Officer,Leading on the delivery of events to promote the value of evaluation to cross-government audiences.,HEO
